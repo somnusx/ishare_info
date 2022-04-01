@@ -5,7 +5,10 @@
 #### 依赖requests
 ```
 pip install requests
+```
 
+#### 运行
+```
 python ishare.py search vios
 python ishare.py search vios-3.4.5
 ```
