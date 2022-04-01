@@ -3,7 +3,9 @@
 
 
 #### 依赖requests
+```
 pip install requests
 
 python ishare.py search vios
 python ishare.py search vios-3.4.5
+```
