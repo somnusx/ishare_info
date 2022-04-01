@@ -1,8 +1,8 @@
 # ishare_info
-这是某lab ishare检索的实现,不包括下载, 获取json连接,可以自己挂代理下载
+这是某lab ishare检索的实现,不包括下载, 获取json连接,可以自己挂代理下载,
 
 
-#### 依赖requests
+#### 依赖python2或者python3 requests
 ```
 pip install requests
 ```
