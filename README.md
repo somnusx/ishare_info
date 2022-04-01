@@ -4,7 +4,7 @@
 
 #### 依赖python2或者python3 requests
 ```
-pip install requests
+pip install requests -i https://pypi.douban.com/simple/
 ```
 
 #### 运行
